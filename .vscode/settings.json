@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "php.suggest.basic": true,
+    "php.validate.enable": true,
+    "phpcs.executablePath": "C:/wamp/bin/php/php5.4.3/php.exe",
+    }

@@ -1,0 +1,17 @@
+ @media print {
+    html, body {
+        display: block; 
+        font-family: "Calibri";
+		font-size: 10px;
+        margin: 0;
+    }
+
+   @page {
+  size: A4;
+}	
+
+    .logo {
+      width: 30%;
+    }
+
+}
