@@ -34,11 +34,10 @@ function Conectar()
 		$CI_USUARIO = $_SESSION[$_SESSION['SISTEMA_SIGLA'] . 'LOGIN'];
 	}
 
-	$Host = "10.50.11.41,1433";
-	//$BaseDatos = "SASPWEB";
-	$BaseDatos = "SIF";
-	$Usuario = "sa";
-	$Clave = "T3mPoral00";
+	$Host = "";
+	$BaseDatos = "";
+	$Usuario = "";
+	$Clave = "";
 
 	$_SESSION['BaseDatos'] = $BaseDatos;
 
